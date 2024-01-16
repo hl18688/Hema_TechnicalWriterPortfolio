@@ -19,3 +19,12 @@ I'm a professional Technical Writer with 5 years of experience in creating user 
 
 ## Skills
 I can create documents from the scratch with templates adhering to the documentation guidelines. Experienced in creating Video tutorials, also I have good knowledge in Kubernetes, Docker and AWS.
+
+## Tools
+GitHub, Confluence, Schema ST4, MS Office, RoboHelp, Adobe FrameMaker, Snagit, HTML, CSS, Jira, Camtasia
+
+## Certifications
+- **Foundations of User Experience (UX) Design** from Google, Issued in July 2023
+- **Start the UX Design Process: Empathize, Define and Ideate** from Google, issued in Aug 2023
+- **JLPT N4**, from The Japan Foundation, issued in Dec 2022
+- Certification in Technical Writing from **The Writer's Block** Bangalore, July 2014
