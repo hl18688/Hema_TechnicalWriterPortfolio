@@ -6,12 +6,12 @@ I'm a professional Technical Writer with 5 years of experience in creating user 
 ### October 2022 - March 2023
 **Manabi Japanese Language Institute**, Tokyo
 
-*At Manabi Language Institute, I completed N3 level Japanese*.
+At Manabi Language Institute, I completed N3 level Japanese.
 
 ### January 2022 - September 2023
 **Canaan International Educational Academy**, Tokyo
 
-*At Canaan Language Institute, I started from N5 level Japanese and completed till N4*.
+At Canaan Language Institute, I started from N5 level Japanese and completed till N4.
 
 **MS Materials Science** College of Engineering Guindy, Chennai
 
