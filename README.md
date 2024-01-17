@@ -32,7 +32,7 @@ GitHub, Confluence, Schema ST4, MS Office, RoboHelp, Adobe FrameMaker, Snagit, H
 ### January 2019 - September 2019
 **Siemens**, Chennai
 
-*Senior Technical Writer*
+**Senior Technical Writer**
 
 As a Senior Technical Writer, I worked for the projects Stencil and Sipass Integrated.
 Created user manuals, video tutorials, API and AWS documents. Used Schema ST4 as a content management system. Participated and won in **Designathon** (2019) for the project **Automatic Ticket Verification** in **Indian Railways**. Hence got recognised for UX and design thinking skills.
@@ -41,7 +41,7 @@ Created user manuals, video tutorials, API and AWS documents. Used Schema ST4 as
 ### September 2014 - December 2018
 **Soverminds Solutions and Technologies Pvt Ltd**, Chennai
 
-*Senior Technical Writer*
+**Senior Technical Writer**
 
 As a Senior Technical Writer, determined the needs of the ends user, understand the software requirement from the SRS document, received knowledge and prepared user friendly product documentation adhering to DDLC process. Proofread documents to improve the quality, prepared production architecture flow, application workflow, business flow and functional flow.
 
