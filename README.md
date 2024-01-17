@@ -1,6 +1,6 @@
 # Technical Writer
 I'm a professional Technical Writer with 5 years of experience in creating user manuals, API documents, release notes, installation guides and marketing documents. I can read, write and speak both English & Japanese.
-!(https://github.com/hl18688/Hema_TechnicalWriterPortfolio/issues/1#issue-2085184112)
+
 ## Education
 ### October 2022 - March 2023
 **Manabi Japanese Language Institute**, Tokyo
